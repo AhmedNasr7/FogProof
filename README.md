@@ -28,13 +28,29 @@ Bringing AI Magic to Railways!
 
 Our code employs two different models the first is [DeRaindrop](https://github.com/rui1996/DeRaindrop) to remove rain drops and the second is [Image Unfogging](https://github.com/VPanjeta/Image-Unfogging) to remove fog. with suitable tuning and data preprocessing, vit gives very good results on the provided dataset.
 
-Here are some of our dataset:
+Here are some of our results:
 
 
 <p float="center">
-  <img src="images/dataset/image_00001.jpg" width="400" />
-  <img src="images/results/image_00001.jpg" width="400" /> 
+  <img src="images/dataset/image_00001.jpg" width="400" height = "300" /> 
+  <img src="images/results/image_00001.jpg" width="400" height = "300" /> 
 </p>
+
+<p float="center">
+  <img src="images/dataset/image_00077.jpg" width="400" height = "300" /> 
+  <img src="images/results/image_00077.jpg" width="400" height = "300" /> 
+</p>
+
+<p float="center">
+  <img src="images/dataset/image_00281.jpg" width="400" height = "300" /> 
+  <img src="images/results/image_00281.jpg" width="400" height = "300" /> 
+</p>
+
+<p float="center">
+  <img src="images/dataset/image_01148.jpg" width="400" height = "300" /> 
+  <img src="images/results/image_01148.jpg" width="400" height = "300" /> 
+</p>
+
 
  
 ### :sparkles: Huge thanks for the real heroes who provided open source code for the latest research [DeRaindrop](https://github.com/rui1996/DeRaindrop) and [Image Unfogging](https://github.com/VPanjeta/Image-Unfogging) and also [AOD-Net](https://github.com/Boyiliee/AOD-Net):sparkles:
