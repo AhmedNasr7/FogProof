@@ -1,0 +1,51 @@
+body {
+  background-image: url("http://demo.vegatheme.com/gocargo/wp-content/uploads/2016/11/bg_3.jpg");
+  background-repeat: no-repeat;
+background-size: cover;  }
+
+.header {
+  padding: 150px;
+  text-align: center;
+  font-family: 'Headland One', serif;
+  color: white;
+  font-size: 40px;
+}
+
+#p {
+	  
+  color: white;
+  width: 700px;
+  padding-left: 3px;
+  padding-bottom: 150px;
+  padding-right: 100px;
+  padding-top: 40px;
+  margin-left: 400px;
+  margin-right:10px;
+  font-size: 17px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+	 
+}
+#img_final {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 
+  150pz;
+border: 1px solid #ddd;
+  border-radius: 100px;  }
+ul {
+  list-style-type: none;
+  font-size:20px;
+  
+  margin: 50px;
+  padding: 0;
+}
+li {
+  list-style-type: none;
+  font-size:20px;
+  color:white;
+  margin: 20px;
+  padding: 0;
+}
+

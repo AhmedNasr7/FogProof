@@ -22,3 +22,9 @@ def redirect_home():
 @app.route('/stream')
 def stream():
     return render_template('new 2.html')
+@app.route('/about')
+def about():
+    return render_template('aboutus.html')
+@app.route('/contact')
+def contact():
+    return render_template('contactus.html')
