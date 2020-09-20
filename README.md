@@ -1,12 +1,12 @@
 # FogProof
-[![Open In Colab]()
+
 
 ### Bringing AI Magic to Railways!
 
 
 ### Please check out our project [**demo**](https://www.youtube.com/watch?v=c1owO-VarWE&feature=youtu.be)
 
-### Meet the team
+### :sparkles: Meet the team :sparkles:
 
 1. Ahmed Nasr     -   Deep Learning Engineer
 2. Mohamed Ayman  -   Frontend Engineer
