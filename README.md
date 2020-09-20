@@ -3,6 +3,8 @@
 
 Bringing AI Magic to Railways!
 
+This project was developed at HackZurich 2020 to participate at Siemense Mobility Challenge: [Lift the veil](http://hackzurich.siemens.cool/)
+
 
 ### Please check out our project [**demo**](https://www.youtube.com/watch?v=c1owO-VarWE&feature=youtu.be)
 
@@ -53,6 +55,8 @@ Here are some of our results:
 
 
  
+
+
 ### :sparkles: Huge thanks for the real heroes who provided open source code for the latest research [DeRaindrop](https://github.com/rui1996/DeRaindrop) and [Image Unfogging](https://github.com/VPanjeta/Image-Unfogging) and also [AOD-Net](https://github.com/Boyiliee/AOD-Net):sparkles:
 
 
