@@ -1,7 +1,7 @@
 # FogProof
 
 
-### Bringing AI Magic to Railways!
+Bringing AI Magic to Railways!
 
 
 ### Please check out our project [**demo**](https://www.youtube.com/watch?v=c1owO-VarWE&feature=youtu.be)
