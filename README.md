@@ -1,18 +1,18 @@
 # FogProof
 [![Open In Colab]()
 
-Bringing AI Magic to Railways!
+### Bringing AI Magic to Railways!
 
 
-## Please check out our project [**demo**](https://www.youtube.com/watch?v=c1owO-VarWE&feature=youtu.be)
+### Please check out our project [**demo**](https://www.youtube.com/watch?v=c1owO-VarWE&feature=youtu.be)
 
-## Meet the team
+### Meet the team
 
-1. Ahmed Nasr    - Deep Learning Engineer
-2. Mohamed Ayman - Frontend Engineer
-3. Yomna Magdy   - Backend Engineer
+1. Ahmed Nasr     -   Deep Learning Engineer
+2. Mohamed Ayman  -   Frontend Engineer
+3. Yomna Magdy    -   Backend Engineer
 
-## How To Use
+### How To Use
 
 1. Download all required dependencies with this
 ```pip3 install -r requirements.txt```.
@@ -20,6 +20,7 @@ Bringing AI Magic to Railways!
 2. go to webApp and Run the app with: ```python3 app.py```
 
 3. Go to this http://0.0.0.0:5000/
+
 
 **Note**: [**Cuda**](https://developer.nvidia.com/cuda-downloads) and [**Cudnn**](https://developer.nvidia.com/cuda-downloads) is required for this to work.
 
