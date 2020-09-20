@@ -31,9 +31,9 @@ Our code employs two different models the first is [DeRaindrop](https://github.c
 Here are some of our dataset:
 
 
-<p float="left">
-  <img src="images/dataset/image_00001.jpg" width="300" />
-  <img src="images/results/image_00001.jpg" width="300" /> 
+<p float="center">
+  <img src="images/dataset/image_00001.jpg" width="480" />
+  <img src="images/results/image_00001.jpg" width="480" /> 
 </p>
 
  
