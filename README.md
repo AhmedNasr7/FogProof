@@ -30,13 +30,11 @@ Our code employs two different models the first is [DeRaindrop](https://github.c
 
 Here are some of our dataset:
 
-![alt-text-1](images/dataset/image_00001.jpg) ![alt-text-2](images/results/image_00001.jpg)
-![alt-text-1](images/dataset/image_00077.jpg) ![alt-text-2](images/results/image_00077.jpg)
-![alt-text-1](images/dataset/image_00281.jpg) ![alt-text-2](images/results/image_000281.jpg)
-![alt-text-1](images/dataset/image_01048.jpg) ![alt-text-2](images/results/image_01148.jpg)
 
-
-
+<p float="left">
+  <img src="images/dataset/image_00001.jpg" width="300" />
+  <img src="images/results/image_00001.jpg" width="300" /> 
+</p>
 
  
 ### :sparkles: Huge thanks for the real heroes who provided open source code for the latest research [DeRaindrop](https://github.com/rui1996/DeRaindrop) and [Image Unfogging](https://github.com/VPanjeta/Image-Unfogging) and also [AOD-Net](https://github.com/Boyiliee/AOD-Net):sparkles:
