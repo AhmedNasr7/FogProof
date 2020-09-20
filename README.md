@@ -32,8 +32,8 @@ Here are some of our dataset:
 
 
 <p float="center">
-  <img src="images/dataset/image_00001.jpg" width="480" />
-  <img src="images/results/image_00001.jpg" width="480" /> 
+  <img src="images/dataset/image_00001.jpg" width="400" />
+  <img src="images/results/image_00001.jpg" width="400" /> 
 </p>
 
  
